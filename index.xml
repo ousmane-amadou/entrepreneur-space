@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi my name is Harvir. Welcome to my blog.</title>
+    <title>Entreprenuer in Space</title>
     <link>http://entrepreneur-space.com/</link>
-    <description>Recent content on Hi my name is Harvir. Welcome to my blog.</description>
+    <description>Recent content on Entreprenuer in Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
-    <copyright>All rights reserved - 2015</copyright>
+    <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Tue, 14 Apr 2015 22:17:00 +0000</lastBuildDate>
     
 	<atom:link href="http://entrepreneur-space.com/index.xml" rel="self" type="application/rss+xml" />
