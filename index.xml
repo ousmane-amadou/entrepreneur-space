@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entreprenuer in Space</title>
+    <title>entrepreneur-space</title>
     <link>http://entrepreneur-space.com/</link>
-    <description>Recent content on Entreprenuer in Space</description>
+    <description>Recent content on entrepreneur-space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2017</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
       
       <guid>http://entrepreneur-space.com/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
+      <description>I am a sophomore student at the University of Windsor studying physics and mathematics. Instilled with a passion for space and for entrepreneurship, I plan to launch my own start-up soon after pursuing graduate studies in physics. In addition to the aforementioned broader fields of physics and mathematics, my other main areas of interest include reading, writing, and watching science fiction. An optimist by nature and a futurist by nurture, my mission is to morph humanity into a space-faring civilization and to be a part of it all along the way.</description>
     </item>
     
   </channel>
