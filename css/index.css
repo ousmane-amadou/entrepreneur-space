@@ -2,19 +2,22 @@
 
 body { 
   font-family: 'Open Sans', 'sans-serif';
-  color: #cecece;
+  color: white;
   background: #222;
   overflow: hidden;
 }
 
+.page-title {
+	padding-bottom: 300px;
+}
 .item-1, 
 .item-2, 
 .item-3 {
 	position: absolute;
   display: block;
-	top: 2em;
+	top: 4em;
   
-  width: 60%;
+  width: 100%;
   
   font-size: 2em;
 
