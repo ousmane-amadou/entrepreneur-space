@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entreprenuer In Space</title>
-    <link>http://entrepreneurinspace.com/</link>
+    <link>https://entrepreneurinspace.com/</link>
     <description>Recent content on Entreprenuer In Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Tue, 14 Apr 2015 22:17:00 +0000</lastBuildDate>
     
-	<atom:link href="http://entrepreneurinspace.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://entrepreneurinspace.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>http://entrepreneurinspace.com/about/</link>
+      <link>https://entrepreneurinspace.com/about/</link>
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
       
-      <guid>http://entrepreneurinspace.com/about/</guid>
+      <guid>https://entrepreneurinspace.com/about/</guid>
       <description>I am a sophomore student at the University of Windsor studying physics and mathematics. Instilled with a passion for space and for entrepreneurship, I plan to launch my own start-up soon after pursuing graduate studies in physics. In addition to the aforementioned broader fields of physics and mathematics, my other main areas of interest include reading, writing, and watching science fiction. An optimist by nature and a futurist by nurture, my mission is to morph humanity into a space-faring civilization and to be a part of it all along the way.</description>
     </item>
     
